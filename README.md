@@ -1,3 +1,4 @@
+<img width="960" alt="11" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/5cf73afd-8bca-48ca-b304-f8e93671323e">
 ## Struktur Kondisi
 - Pada Latihan 1, kita membuat program sederhana dengan input 2 buah bilangan, kemudian
 tentukan bilangan terbesar dari kedua bilangan tersebut
