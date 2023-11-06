@@ -148,3 +148,4 @@ git clone [url]
 
 
 ## Berikut bukti pengerjaan-nya
+<img width="444" alt="Screenshot_20230304_204747" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/02393f28-e3f4-4cfb-9387-db23b85071ae">
