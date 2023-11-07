@@ -1,4 +1,4 @@
-<img width="960" alt="101" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/5f03d2c3-137f-49b8-b9d3-b4386fc25dc6">## Struktur Kondisi
+## Struktur Kondisi
 - Pada Latihan 1, kita membuat program sederhana dengan input 2 buah bilangan, kemudian
 tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.
