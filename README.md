@@ -150,4 +150,6 @@ git clone [url]
 ## Berikut bukti pengerjaan-nya
 <img width="960" alt="100" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/752c5666-7308-4354-88e0-7300c98ea53c">
 <img width="960" alt="101010" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/abc86cc5-e4ee-498f-ace0-19997f16394b">
-
+<img width="960" alt="105" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/3c495cbb-7e7e-4b0c-b68b-08d5a8cfe150">
+<img width="960" alt="108" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/aaafbb7f-2383-419e-8115-2c95dc7d1dd3">
+<img width="960" alt="106" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/605e80bf-c874-4b8b-aef7-4dead227ebec">
