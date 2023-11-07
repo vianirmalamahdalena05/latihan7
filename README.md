@@ -148,14 +148,5 @@ git clone [url]
 
 
 ## Berikut bukti pengerjaan-nya
-<img width="960" alt="100" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/312ce4bc-5f9b-4581-9c0f-e0bfe17a03fb">
-<img width="960" alt="101010" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/1ebad338-e356-45e1-b45d-b994e225b0b0">
-<img width="960" alt="105" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/6e2a3f31-48dc-4b4f-9ab3-082c41239b01">
-<img width="960" alt="108" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/31bca03e-9830-4cb1-a173-c84fff797ee0">
-<img width="960" alt="106" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/2fb88bee-2ce7-4b13-8e4b-be67bf8d966e">
-<img width="960" alt="109" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/66145862-2779-4836-ae50-1b7d099a52bb">
-<img width="960" alt="110" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/14972d62-c8f9-4962-b77f-97273fea5f86">
-<img width="960" alt="111" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/518bbc66-25e5-41b3-b815-32f1ee9286b6">
-<img width="960" alt="112" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/badc866d-abc3-40ad-976a-5f4ae35cc51c">
-<img width="960" alt="113" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/13543658-e273-4b8d-ad38-77d688fa33df">
-<img width="960" alt="114" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/6e6f8bb1-741b-4cc2-bae7-f866f509ab6f">
+<img width="960" alt="100" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/752c5666-7308-4354-88e0-7300c98ea53c">
+
