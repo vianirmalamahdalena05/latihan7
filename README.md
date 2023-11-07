@@ -149,4 +149,5 @@ git clone [url]
 
 ## Berikut bukti pengerjaan-nya
 <img width="960" alt="100" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/752c5666-7308-4354-88e0-7300c98ea53c">
+<img width="960" alt="101010" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/abc86cc5-e4ee-498f-ace0-19997f16394b">
 
