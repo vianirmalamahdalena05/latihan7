@@ -148,17 +148,14 @@ git clone [url]
 
 
 ## Berikut bukti pengerjaan-nya
-<img width="960" alt="100" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/5277c8fe-4478-4e0e-8ec2-a5a451dd7e59">
-<img width="960" alt="101" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/039c4b55-bbac-4f67-a17a-eea70a93c400">
-<img width="960" alt="105" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/d737e581-3339-48b5-85b6-d82be0a7bce8">
-<img width="960" alt="108" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/0cf81e7b-6422-4b73-a6ad-9f91cbde65b3">
-<img width="960" alt="106" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/9fdeec64-d3a0-4a16-b9b2-e09c31610d17">
-<img width="960" alt="109" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/a082a106-5755-4207-b3c3-e1e098543bd2">
-<img width="960" alt="110" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/1bf1e71e-1f23-4b60-b4c6-d284878737fe">
-<img width="960" alt="111" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/beefd462-b5ba-4604-93c5-09f7ab1e94ff">
-<img width="960" alt="112" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/999f21de-71dc-4bb7-bcee-5de85e5f77be">
-<img width="960" alt="113" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/381c1fbc-d519-4a1f-afd1-0dedec6f7813">
-<img width="960" alt="114" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/9ea8e32f-e0e0-4b7f-9160-6ca1cbc1be06">
-
-
-
+<img width="960" alt="100" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/f05e5650-e6ad-4d57-af1c-87f451e44557">
+<img width="960" alt="101" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/a28dbb6f-d7d3-47ef-8c67-bb9d6355a350">
+<img width="960" alt="105" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/5c25e216-6efd-48aa-8ffa-fb2dbb2cc764">
+<img width="960" alt="108" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/17e9fd26-f28a-4891-ac4d-7b313deaf275">
+<img width="960" alt="106" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/ffd540c4-a263-4bf9-9515-818b84e1b280">
+<img width="960" alt="109" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/debd3982-8e4d-4051-999b-6b851630a3f7">
+<img width="960" alt="110" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/f66ad556-75b3-4987-9bc2-c6b1bdbdfadb">
+<img width="960" alt="111" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/93928954-fa08-4fbf-bee0-c40756dfbc15">
+<img width="960" alt="112" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/255fa636-0dc1-4950-b69e-629ce4f02b61">
+<img width="960" alt="113" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/225677c4-4d88-4516-8fbc-7b95af0c0b2b">
+<img width="960" alt="114" src="https://github.com/vianirmalamahdalena05/latihan7/assets/147572078/a4f28ea7-3af9-4445-af7f-e91568552e88">
